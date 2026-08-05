@@ -132,8 +132,8 @@ Explore the interactive Power BI dashboard here:
 ## 👨‍💻 Author
 
 **Naveen Jhinjarye**
+If You would like to connect with me. Connect on Linkedin[here](https://www.linkedin.com/in/naveen-jhinjarye/)
 
-- LinkedIn: *(https://www.linkedin.com/in/naveen-jhinjarye/)*
 ---
 
 ⭐ If you found this project useful, don't forget to **Star** the repository and share your feedback!
