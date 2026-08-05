@@ -92,13 +92,25 @@ The dashboard includes:
 
 ---
 
-### 📈 Sales Channel Dashboard
-![Sales Channel Dashboard](Dashboard_screenshot/Screenshot%20(862).png)
+### 📈 View analysis Dashboard
+![View analysis Dashboard](assts/Screenshot%20(910).png)
 
 ---
 
-### 👥 Age Group Dashboard
-![Age Group Dashboard](Dashboard_screenshot/Screenshot%20(863).png)
+### 👥 Video Analysis Dashboard
+![Video Analysis Dashboard](assts/Screenshot%20(911).png)
+
+---
+
+### 📈 Engagement Analysis  Dashboard
+![Engagement Analysis  Dashboard](assts/Screenshot%20(912).png)
+
+---
+### 📈 Short Vs Long Video Analysis  Dashboard
+![Short Vs Long Video Analysis  Dashboard](assts/Screenshot%20(913).png)
+
+---
+
 ---
 
 ## 🎥 Project Presentation
