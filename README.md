@@ -117,13 +117,12 @@ The dashboard includes:
 
 Watch the complete dashboard walkthrough and business insights.
 
-You can check out the Video Presentation of this project [here]()
+You can check out the Video Presentation of this project [here](https://youtu.be/CZYZDveHpY8)
 
 ---
 
 ## 🎥 Presentation File
-
-You can check out the Presentation  File of this project [here](![Presentation File](assts/Red Modern Movie Presentation%20(1).png))
+You can check out the Presentation File of this project [here](assts/Red%20Modern%20Movie%20Presentation%20(1).pptx)
 
 ---
 ## 📊 Interactive Dashboard
