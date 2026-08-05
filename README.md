@@ -88,7 +88,7 @@ The dashboard includes:
 ## 📸 Dashboard Preview
 
 ### 📊 General Dashboard
-![General Dashboard](assts/Screenshot (909).png)
+![General Dashboard](assts/Screenshot(909).png)
 
 ---
 
