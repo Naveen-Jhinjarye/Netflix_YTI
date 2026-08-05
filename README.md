@@ -121,6 +121,11 @@ You can check out the Video Presentation of this project [here]()
 
 ---
 
+## 🎥 Presentation File
+
+You can check out the Presentation  File of this project [here](![Presentation File](assts/Red Modern Movie Presentation%20(1).png))
+
+---
 ## 📊 Interactive Dashboard
 
 Explore the interactive Power BI dashboard here:
@@ -132,7 +137,7 @@ Explore the interactive Power BI dashboard here:
 ## 👨‍💻 Author
 
 **Naveen Jhinjarye**
-If You would like to connect with me. Connect on Linkedin[here](https://www.linkedin.com/in/naveen-jhinjarye/)
+If You would like to connect with me. Connect on Linkedin [here](https://www.linkedin.com/in/naveen-jhinjarye/)
 
 ---
 
