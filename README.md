@@ -87,8 +87,18 @@ The dashboard includes:
 
 ## 📸 Dashboard Preview
 
-> *(Add dashboard screenshots here)*
+### 📊 General Dashboard
+![General Dashboard](assts/Screenshot%20(909).png)
 
+---
+
+### 📈 Sales Channel Dashboard
+![Sales Channel Dashboard](Dashboard_screenshot/Screenshot%20(862).png)
+
+---
+
+### 👥 Age Group Dashboard
+![Age Group Dashboard](Dashboard_screenshot/Screenshot%20(863).png)
 ---
 
 ## 🎥 Project Presentation
