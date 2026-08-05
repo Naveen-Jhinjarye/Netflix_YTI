@@ -95,7 +95,7 @@ The dashboard includes:
 
 Watch the complete dashboard walkthrough and business insights.
 
-**Video Link:** *(Add your LinkedIn/YouTube video link)*
+You can check out the Video Presentation of this project [here]()
 
 ---
 
@@ -103,7 +103,7 @@ Watch the complete dashboard walkthrough and business insights.
 
 Explore the interactive Power BI dashboard here:
 
-**Power BI Link:** *(Add your Power BI Service link)*
+**Power BI Link:** You can check out the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYWFiMzBhOGItNGIyZC00MTVjLTkxMmUtZjRhZTFlMzAyZmI2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
 
 ---
 
@@ -111,9 +111,7 @@ Explore the interactive Power BI dashboard here:
 
 **Naveen Jhinjarye**
 
-- LinkedIn: *(Add your LinkedIn profile)*
-- GitHub: *(Add your GitHub profile)*
-
+- LinkedIn: *(https://www.linkedin.com/in/naveen-jhinjarye/)*
 ---
 
 ⭐ If you found this project useful, don't forget to **Star** the repository and share your feedback!
